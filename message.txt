@@ -1,2 +1,3 @@
 git 소스트리 확인하기위한 테스트
 public으로 바꾼 후 다시 테스트
+git user.email을 틀리게하고있었음 수정 후 다시 commit
